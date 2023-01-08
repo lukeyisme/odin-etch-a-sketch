@@ -1,0 +1,17 @@
+/* color pallete for this project will be
+    2B4141 - Dark Slate Gray
+    9DB5B2 - Opal
+    878E99 - Roman Silver
+    7F6A93 - French Lilac
+*/
+
+body{
+    background-color: #2B4141;
+}
+
+
+#content{
+    background-color: #878E99;
+    width: 960px;
+    height: 960px;
+}
